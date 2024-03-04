@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @Syylik
-- 👀 I’m interested in Unity development
-- 🌱 I’m currently learning Unity
-- 📫 How to reach me syylik@mail.ru    my discord: Syylik#8541
+I’m Unity Developer. I made many projects
+If you need anything write here: @Syylik
