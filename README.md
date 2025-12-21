@@ -8,7 +8,7 @@
 <p><br></p>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Syylik&repo=Shoot-Em-Up)](https://github.com/Syylik/Shoot-Em-Up)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Syylik&repo=HardChoice)](https://github.com/Syylik/HardChoice)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Syylik&repo=CupHero_Test)](https://github.com/Syylik/CupHero_Test)
 
 ### 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/Syylik/)
