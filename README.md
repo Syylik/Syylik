@@ -7,7 +7,7 @@
 ![CSharp](https://img.shields.io/badge/-CSharp-090909?style=for-the-badge&logo=csharp&logoColor=37E1FF)
 <p><br></p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Syylik&repo=Shoot-Em-Up)](https://github.com/Syylik/Shoot-Em-Up)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Syylik&repo=Shoot-It-All)](https://github.com/Syylik/Shoot-Em-Up)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Syylik&repo=CupHero_Test)](https://github.com/Syylik/CupHero_Test)
 
 ### 
